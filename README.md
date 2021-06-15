@@ -51,13 +51,11 @@ Figura 2.1 Circuito para el análisis de mallas.
  ![image](https://user-images.githubusercontent.com/84427371/122003527-d4822280-cd78-11eb-8597-94b1829f9d10.png)
 
 
-![image](https://user-images.githubusercontent.com/84427371/122003589-e5cb2f00-cd78-11eb-82e9-2d534cc93cc6.png)
+![image](https://user-images.githubusercontent.com/84587120/122009229-7b69bd00-cd7f-11eb-9b15-2d7295edbeb2.png)
 
+![image](https://user-images.githubusercontent.com/84587120/122009268-858bbb80-cd7f-11eb-8046-74f156174356.png)
 
-![image](https://user-images.githubusercontent.com/84427371/122003640-f8456880-cd78-11eb-903a-1ff748143e1d.png)
-
-
-![image](https://user-images.githubusercontent.com/84427371/122003678-04312a80-cd79-11eb-8de1-27049fde673d.png)
+![image](https://user-images.githubusercontent.com/84587120/122009298-8de3f680-cd7f-11eb-96bd-ca4eef23281a.png)
 
 
  
