@@ -61,7 +61,10 @@ Figura 2.1 Circuito para el análisis de mallas.
  
 2.1.3.   Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
+Link:
+
 CONCLUSIONES: 
+
 -Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos  ya conocidos y mencionados con anterioridad sobre el análisis de malla   de  Kirchhoff ,podemos concluir que:
 
 -El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en función de corrientes.
