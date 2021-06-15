@@ -13,7 +13,7 @@ OBJETIVOS ESPECÍFICOS:
 
 Verificar el análisis de mallas por corrientes con la regla de kirchhoff. corriente.
 Verificar el análisis de mallas por voltajes con la  regla de kirchhoff .
-Realizar el procedimiento en un simulador llamado software Multisim que nos va a permitir experimentar de una forma más realista.
+Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
 
 2.2.            REQUISITOS PREVIOS.
 
@@ -48,15 +48,15 @@ Figura 2.1 Circuito para el análisis de mallas.
 2.1.3.   Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 CONCLUSIONES: 
-Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos  ya conocidos y mencionados con anterioridad sobre el análisis de malla   de  Kirchhoff ,podemos concluir que:
+-Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos  ya conocidos y mencionados con anterioridad sobre el análisis de malla   de  Kirchhoff ,podemos concluir que:
 
-El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en función de corrientes.
+-El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en función de corrientes.
 
-Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún elemento del circuito.
+-Una malla es una trayectoria cerrada que no encierra dentro de sí a ningún elemento del circuito.
 
-De acuerdo a los resultados experimentales y analiticos de nuestra tabla hay que tener muy en  cuenta los signos positivos y negativos que  están en cada una de las 3 ramas del  circuito ,para así no obtener fallas en los resultados de nuestro sistema de ecuaciones,ya que esto nos sirvió para obtener los voltajes mediante las corrientes.
+-De acuerdo a los resultados experimentales y analiticos de nuestra tabla hay que tener muy en  cuenta los signos positivos y negativos que  están en cada una de las 3 ramas del  circuito ,para así no obtener fallas en los resultados de nuestro sistema de ecuaciones,ya que esto nos sirvió para obtener los voltajes mediante las corrientes.
 
-Al realizar el  respectivo análisis de cada una de las 3 mallas del circuito,  medir sus  voltajes  y corrientes en cada uno de sus  elementos , al ponerlo en práctica en el simulador nos marca un margen de error mínimo,los cuales pueden ser producidos porque no es un escenario real, estos resultados los anotamos en la tabla 1.2.
+-Al realizar el  respectivo análisis de cada una de las 3 mallas del circuito,  medir sus  voltajes  y corrientes en cada uno de sus  elementos , al ponerlo en práctica en el simulador nos marca un margen de error mínimo,los cuales pueden ser producidos porque no es un escenario real, estos resultados los anotamos en la tabla 1.2.
 
 Bibliografía:
 González, A. G. (26 de Julio de 2013). Ley de los voltajes de Kirchhoff: Método de Mallas. Obtenido de ¿Qué es una malla?: http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/
