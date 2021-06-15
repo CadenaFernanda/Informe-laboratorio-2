@@ -44,6 +44,18 @@ Figura 2.1 Circuito para el análisis de mallas.
  
  PROTOBOAR::::
  
+ ![image](https://user-images.githubusercontent.com/84427371/122003527-d4822280-cd78-11eb-8597-94b1829f9d10.png)
+
+
+![image](https://user-images.githubusercontent.com/84427371/122003589-e5cb2f00-cd78-11eb-82e9-2d534cc93cc6.png)
+
+
+![image](https://user-images.githubusercontent.com/84427371/122003640-f8456880-cd78-11eb-903a-1ff748143e1d.png)
+
+
+![image](https://user-images.githubusercontent.com/84427371/122003678-04312a80-cd79-11eb-8de1-27049fde673d.png)
+
+
  
 2.1.3.   Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
