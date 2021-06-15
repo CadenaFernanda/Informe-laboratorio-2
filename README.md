@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/84587120/122004173-afda7a80-cd79-11eb-9aca-f1df9fbff436.png)
+
+
 # Informe-laboratorio-2
 PRÁCTICA No. 2
 
@@ -11,15 +14,13 @@ OBJETIVO GENERAL
  
 OBJETIVOS ESPECÍFICOS:
 
--Verificar el análisis de mallas por corrientes con la regla de kirchhoff. corriente.
+Verificar el análisis de mallas por corrientes con la regla de kirchhoff. corriente.
+Verificar el análisis de mallas por voltajes con la  regla de kirchhoff .
+Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
 
--Verificar el análisis de mallas por voltajes con la  regla de kirchhoff .
+2.2.            REQUISITOS PREVIOS.
 
--Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
-
-2.2.   REQUISITOS PREVIOS.
-
--Se requiere el análisis analítico del circuito mostrado en la figura 2.1., mediante la técnica del análisis de mallas. El valor obtenido de cada corriente de malla anótelo en la tabla 2.1.
+Se requiere el análisis analítico del circuito mostrado en la figura 2.1., mediante la técnica del análisis de mallas. El valor obtenido de cada corriente de malla anótelo en la tabla 2.1.
 
 2.3.  INFORMACIÓN GENERAL
 
@@ -44,13 +45,9 @@ Figura 2.1 Circuito para el análisis de mallas.
 
 2.1.2.   Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 2.1, obteniendo los valores de las corrientes de malla. Anote los resultados en la tabla 2.1.
  
- PROTOBOAR::::
  
- MEDICION DE VOLTAJE 
- 
-![image](https://user-images.githubusercontent.com/84427371/122003527-d4822280-cd78-11eb-8597-94b1829f9d10.png)
+ ![image](https://user-images.githubusercontent.com/84427371/122003527-d4822280-cd78-11eb-8597-94b1829f9d10.png)
 
-MEDICION DE CORRIENTE
 
 ![image](https://user-images.githubusercontent.com/84427371/122003589-e5cb2f00-cd78-11eb-82e9-2d534cc93cc6.png)
 
@@ -65,7 +62,6 @@ MEDICION DE CORRIENTE
 2.1.3.   Compare los valores de la tabla 2.1 y realice sus conclusiones.
 
 CONCLUSIONES: 
-
 -Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos  ya conocidos y mencionados con anterioridad sobre el análisis de malla   de  Kirchhoff ,podemos concluir que:
 
 -El análisis de mallas es una técnica que hace uso de la LVK para expresar voltajes en función de corrientes.
@@ -81,6 +77,7 @@ Bibliografía:
 González, A. G. (26 de Julio de 2013). Ley de los voltajes de Kirchhoff: Método de Mallas. Obtenido de ¿Qué es una malla?: http://panamahitek.com/ley-de-los-voltajes-de-kirchhoff-metodo-de-mallas/
 
 HETPRO. (s.f.). Leyes de Kirchhoff. Obtenido de Ley de Kirchhoff: Análisis de mallas.: https://hetpro-store.com/TUTORIALES/ley-de-kirchhoff-analisis-de-mallas/
+
 Khan Academy. (2021). El método de la corriente de malla. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-mesh-current-method
 
 PIENSA 3D. (s.f.). Ley de voltaje de Kirchhoff: Método de mallas. Obtenido de https://piensa3d.com/ley-voltaje-kirchhoff-metodo-mallas/#:~:text=Una%20malla%20consiste%20en%20un,circuito%20es%20igual%20a%20cero.
