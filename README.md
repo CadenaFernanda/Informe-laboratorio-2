@@ -44,8 +44,11 @@ Figura 2.1 Circuito para el análisis de mallas.
  
  PROTOBOAR::::
  
- ![image](https://user-images.githubusercontent.com/84427371/122003527-d4822280-cd78-11eb-8597-94b1829f9d10.png)
+ MEDICION DE VOLTAJE 
+ 
+![image](https://user-images.githubusercontent.com/84427371/122003527-d4822280-cd78-11eb-8597-94b1829f9d10.png)
 
+MEDICION DE CORRIENTE
 
 ![image](https://user-images.githubusercontent.com/84427371/122003589-e5cb2f00-cd78-11eb-82e9-2d534cc93cc6.png)
 
