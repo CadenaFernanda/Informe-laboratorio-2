@@ -63,6 +63,8 @@ Figura 2.1 Circuito para el análisis de mallas.
 
 Link:
 
+https://youtu.be/cr8aMvFCYyg
+
 CONCLUSIONES: 
 
 -Después de realizar el respectivo análisis a la teoría y práctica , utilizar los métodos,cálculos  ya conocidos y mencionados con anterioridad sobre el análisis de malla   de  Kirchhoff ,podemos concluir que:
