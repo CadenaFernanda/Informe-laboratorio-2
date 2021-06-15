@@ -14,11 +14,13 @@ OBJETIVO GENERAL
  
 OBJETIVOS ESPECÍFICOS:
 
-Verificar el análisis de mallas por corrientes con la regla de kirchhoff. corriente.
-Verificar el análisis de mallas por voltajes con la  regla de kirchhoff .
-Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
+-Verificar el análisis de mallas por corrientes con la regla de kirchhoff. 
 
-2.2.            REQUISITOS PREVIOS.
+-Verificar el análisis de mallas por voltajes con la  regla de kirchhoff .
+
+-Realizar el procedimiento en un simulador llamado Tinkercad que nos va a permitir experimentar de una forma más realista.
+
+2.2. REQUISITOS PREVIOS.
 
 Se requiere el análisis analítico del circuito mostrado en la figura 2.1., mediante la técnica del análisis de mallas. El valor obtenido de cada corriente de malla anótelo en la tabla 2.1.
 
